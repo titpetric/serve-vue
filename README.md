@@ -2,6 +2,14 @@
 
 Serve a built vue-js project folder
 
+## Building
+
+If you have go, it should be as simple as:
+
+`go run main.go` or `go build main.go`.
+
+If you have docker, you can build and install by running `./build.sh`.
+
 ## Usage
 
 I'm tired of setting up nginx-es for every small vuejs project.
